@@ -4,7 +4,6 @@ import PostImage from "../components/PostImage";
 
 export default function Home({ twimgs }) {
 
-  console.log(twimgs);
   return (
     <div className="bg-gray-700">
       <Hero />
